@@ -1,7 +1,7 @@
 from translate import translate
 import telebot
 
-TOKEN ="5926362159:AAHtrl44qbrxZriCUnGgw0SLYerJ8dzCNyg"
+TOKEN ="5926362959:AAHtrl44qbrxZrCUnGgw0SLYerJ8dzCNyg"
 tarjimonbot = telebot.TeleBot(token=TOKEN)
 
 #\start komandasi uchun mas'ul funksiya
